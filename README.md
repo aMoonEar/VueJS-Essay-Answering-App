@@ -1,4 +1,4 @@
-# scholarship_application
+# VueJS Essay Answering App
 
 This is a VueJS project created within 24 hours for ScholarMe. It is a essay answering application that provides students with essay prompts, dynamically calculates scholarship amounts, and provides a page for the students to answer the questions they selected.
 
